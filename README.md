@@ -72,104 +72,64 @@
 
 [Learn blockchains by building one](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
 
-[](https://www.apple.com/everyone-can-code/)
+[Apple Everyone can code](https://www.apple.com/everyone-can-code/)
 
-[](https://www.apple.com/v/everyone-can-code/a/images/og.png?201706201311)
+[Udemy iOS Course](https://www.udemy.com/devslopes-ios10/)
 
-[](https://www.udemy.com/devslopes-ios10/)
+[TDD Essential Developers](https://www.youtube.com/watch?v=GuxiFOiGtYk)
 
-[](https://www.youtube.com/watch?v=GuxiFOiGtYk)
+[Clean Coders - Mobile app case study](https://cleancoders.com/videos/mobile-app-case-study)
 
-[](https://cleancoders.com/videos/mobile-app-case-study)
+[TDD iOS Development Swift](https://www.packtpub.com/application-development/test-driven-ios-development-swift-3)
 
-[](https://www.packtpub.com/application-development/test-driven-ios-development-swift-3)
+[UI Testing Cheat Sheet](https://github.com/joemasilotti/UI-Testing-Cheat-Sheet)
 
-[](https://github.com/elit-software/login-screen)
+[IGListKit](https://github.com/Instagram/IGListKit)
 
-[](https://github.com/joemasilotti/UI-Testing-Cheat-Sheet)
+[How HBO’s Silicon Valley built “Not Hotdog” with mobile TensorFlow, Keras & React Native](https://medium.com/@timanglade/how-hbos-silicon-valley-built-not-hotdog-with-mobile-tensorflow-keras-react-native-ef03260747f3)
 
-[](https://github.com/Instagram/IGListKit)
+[AI Pair Programmer](https://www.codota.com)
 
-[](https://futurism.com/googles-new-ai-is-better-at-creating-ai-than-the-companys-engineers/)
+[mvp vs mvvm - introduction](https://www.slideshare.net/MatteoPierro/mvp-vs-mvvm-a-fast-introduction)
 
-[](https://futurism.com/wp-content/uploads/2017/05/google-annouce-600x315.png)
+[mvp vs mvvm](example code https://github.com/MatteoPierro/android-mvp-vs-mvvm)
 
-[](https://medium.com/@timanglade/how-hbos-silicon-valley-built-not-hotdog-with-mobile-tensorflow-keras-react-native-ef03260747f3)
+[99 Bottles of OOP](https://www.sandimetz.com/99bottles/)
 
-[](https://cdn-images-1.medium.com/focal/1200/632/63/18/1*FZSvtomVWXV6hQp1Mkdk3A.png)
+[The Clean Code Talks -- Unit Testing](https://www.youtube.com/watch?v=wEhu57pih5w)
 
-[](https://www.codota.com)
+[Extreme Programming](https://en.wikipedia.org/wiki/Extreme_programming)
 
-[](https://www.codota.com/img/codota-share.png)
+[Working Effectively with Unit Tests](https://leanpub.com/wewut)
 
-[](https://github.com/stanwood/Fast_TV_Guide_Swift)
+[Conrad Kramer - Reverse engineering iOS apps lyft](https://academy.realm.io/posts/conrad-kramer-reverse-engineering-ios-apps-lyft/)
 
-[](https://github.com/tiagomartinho/Reminders)
+[Andy Matuschak - Refactor mega controller](https://academy.realm.io/posts/andy-matuschak-refactor-mega-controller/)
 
-[](https://www.slideshare.net/MatteoPierro/mvp-vs-mvvm-a-fast-introduction)
+[iOS Sample App](https://github.com/igorkulman/iOSSampleApp)
 
-[](example code https://github.com/MatteoPierro/android-mvp-vs-mvvm)
+[Writing unit tests in a Swift playground](https://www.swiftbysundell.com/posts/writing-unit-tests-in-a-swift-playground)
 
-[](https://github.com/emilybache/Racing-Car-Katas)
+[Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas)
 
-[](https://academy.realm.io/posts/andy-matuschak-refactor-mega-controller/)
+[Time traveling in Swift unit tests](https://medium.com/@johnsundell/time-traveling-in-swift-unit-tests-583a2c3ce85b)
 
-[](https://www.sandimetz.com/99bottles/)
+[Refactoring](https://refactoring.guru/)
 
-[](https://www.youtube.com/watch?v=wEhu57pih5w)
+[Source Making](https://sourcemaking.com)
 
-[](https://en.wikipedia.org/wiki/Extreme_programming)
+[Clean Architecture Sample App](https://github.com/tiagomartinho/Reminders)
 
-[](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Extreme_Programming.svg/1200px-Extreme_Programming.svg.png)
+[iOS Sample App](https://github.com/igorkulman/iOSSampleApp)
 
-[](https://leanpub.com/wewut)
+[Open Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)
 
-[](https://academy.realm.io/posts/conrad-kramer-reverse-engineering-ios-apps-lyft/)
+[Karumi Katas](https://github.com/Karumi?language=swift&q=kata)
 
-[](https://academy.realm.io/posts/andy-matuschak-refactor-mega-controller/)
+[Strings and Characters](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/StringsAndCharacters.html)
 
-[](https://github.com/igorkulman/iOSSampleApp)
+[Print Unicode Characters](https://gist.github.com/ZevEisenberg/3c00a03177f57d3fee60)
 
-[](https://www.swiftbysundell.com/posts/writing-unit-tests-in-a-swift-playground)
+[Unit Test Template Project](https://github.com/tiagomartinho/macOSUnitTest)
 
-[](https://github.com/emilybache/Racing-Car-Katas)
-
-[](https://medium.com/@johnsundell/time-traveling-in-swift-unit-tests-583a2c3ce85b)
-
-[](https://cdn-images-1.medium.com/max/1200/1*TPXKjJpjbJPzxAWmrf9dOg.png)
-
-[](https://en.wikipedia.org/wiki/Builder_pattern)
-
-[](https://upload.wikimedia.org/wikipedia/commons/8/87/W3sDesign_Builder_Design_Pattern_UML.jpg)
-
-[](https://refactoring.guru/)
-
-[](https://refactoring.guru/images/refactoring/social/facebook-share-preview.png)
-
-[](https://sourcemaking.com)
-
-[](https://sourcemaking.com/files/v2/content/home-tb1.png)
-
-[](https://github.com/tiagomartinho/Reminders)
-
-[](https://github.com/igorkulman/iOSSampleApp)
-
-[](https://github.com/Karumi?language=swift&q=kata)
-
-[](https://github.com/dkhamsing/open-source-ios-apps)
-
-[](https://www.gitbook.com/book/97-things-every-x-should-know/97-things-every-programmer-should-know/details)
-
-[](https://github.com/Karumi?language=swift&q=kata)
-
-[](https://github.com/amilajack/reading/blob/master/Algorithms/Cracking%20the%20Coding%20Interview%2C%206th%20Edition.pdf)
-
-[](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/StringsAndCharacters.html)
-
-[](https://gist.github.com/ZevEisenberg/3c00a03177f57d3fee60)
-
-[](https://github.com/tiagomartinho/macOSUnitTest)
-
-[](https://code.google.com/codejam/contest/3264486/dashboard#s=p1)
-
-[](https://code.google.com/codejam/contest/3264486/dashboard#s=p1)
+[Tidy Numbers Code Jam](https://code.google.com/codejam/contest/3264486/dashboard#s=p1)
