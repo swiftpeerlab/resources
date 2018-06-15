@@ -2,6 +2,60 @@
 
 # Previous meetups
 
+[Getting Started and Inspired](https://github.com/swiftpeerlab/Getting-Started-and-Inspired/blob/master/README.md)
+
+[Katas](http://agilekatas.co.uk/katas)
+
+[Coding Dojo](http://codingdojo.org/kata/)
+
+[Coffee Machine Kata](http://simcap.github.io/coffeemachine/)
+
+[Fastlane](https://fastlane.tools)
+
+[Concrete Login Service](https://github.com/elit-software/login-screen/blob/master/Apple%20OS/Login%20Service/AlamofireLoginService.swift)
+
+[Mutation testing system built on top of LLVM](https://github.com/mull-project/mull)
+
+[About mutating test](http://pitest.org/)
+
+[Inter-App Communication](https://developer.apple.com/library/content/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Inter-AppCommunication/Inter-AppCommunication.html)
+
+[material io](https://material.io)
+
+[Technovation](https://technovationchallenge.org)
+
+[firebase/functions-samples](https://github.com/firebase/functions-samples)
+
+[Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)
+
+[Namespaces in Swift](https://cocoacasts.com/namespaces-in-swift)
+
+[Automatic Reference Counting](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/AutomaticReferenceCounting.html)
+
+[Value and Reference Types](https://developer.apple.com/swift/blog/?id=10)
+
+[Sustainable Releases, a Tale of Teams and Automation](https://skillsmatter.com/skillscasts/11313-keynote-sustainable-releases-a-tale-of-teams-and-automation)
+
+[Refactoring and Design Patterns](https://refactoring.guru/)
+
+[Essential Developer](https://www.youtube.com/channel/UCjFr010oOpmlzZNw79f-1fA)
+
+[iOS Application Architecture](https://www.youtube.com/watch?v=PdkWjdKOqfo&list=PLLcE3DL3f5BzR14FYTO9w0l5REVVSDNB4&index=22)
+
+[Configure Build Variants in iOS](https://medium.com/@martinho_t/configure-build-variants-in-ios-f32fe43481f0)
+
+[I love Swift, I hate to use Swift](https://medium.com/@fcbunn/i-love-swift-i-hate-to-use-swift-3778aeeda209)
+
+[Tail Recursion](http://wiki.c2.com/?TailRecursion)
+
+[Test Driven Development: By Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
+
+[Roman Numerals Kata](http://codingdojo.org/kata/RomanNumerals/)
+
+[Tennis Kata](http://agilekatas.co.uk/katas/Tennis-Kata)
+
+[pyenv](https://github.com/pyenv/pyenv)
+
 [Machine Learning from Stanford University in Coursera](https://www.coursera.org/learn/machine-learning)
 
 [Google Code Jam](https://code.google.com/codejam/)
@@ -46,7 +100,7 @@
 
 [objc io](https://www.objc.io/issues)
 
-[Working Effectively with Legacy Code  Michael Feathers](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)
+[Working Effectively with Legacy Code Michael Feathers](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)
 
 [Calendar Library](https://github.com/jumartin/Calendar)
 
